@@ -9,3 +9,8 @@ This course will introduce students to the building blocks of creative computing
 
 - Processing work files
 - Arduino work files
+
+**Links & Resources**
+
+- [Monday Session classblog](https://coursedigitalcraft.wordpress.com/)
+- [Thursday Session](https://digitalcraft2017spr.wordpress.com/)
